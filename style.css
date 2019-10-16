@@ -4,8 +4,10 @@ padding: 0;
 }
 
 #header {
+background: url('header.jpg') repeat-x;
 height: 200px; 
-text-align: right;
+text-align: center;
+font-size: 14pt;
 
 }
 
