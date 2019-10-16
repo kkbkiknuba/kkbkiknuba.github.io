@@ -6,7 +6,7 @@ padding: 0;
 #header {
 height: 100px; 
 text-align: center;
-font-size: 30pt;
+font-size: 20pt;
 
 }
 
@@ -20,5 +20,5 @@ font-size: 12pt;
 #footer {
 height: 200px;
 text-align: center;
-font-size: 14pt;
+font-size: 10pt;
 }
